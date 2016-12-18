@@ -33,13 +33,13 @@ AnimatorState:
   m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 1
-  m_WriteDefaultValues: 1
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 0
   m_Mirror: 0
   m_SpeedParameterActive: 0
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 47302c2c2d9d14047b654ce308ba0dac, type: 3}
+  m_Motion: {fileID: 7400000, guid: c9bd9295f1cc0f24492fc79871a7e383, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

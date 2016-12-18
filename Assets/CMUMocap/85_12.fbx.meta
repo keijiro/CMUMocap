@@ -1,248 +1,142 @@
 fileFormatVersion: 2
-guid: 47302c2c2d9d14047b654ce308ba0dac
-timeCreated: 1480841165
+guid: c9bd9295f1cc0f24492fc79871a7e383
+timeCreated: 1482063438
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
     100002: Body
-    100004: C3D:Male_C7
-    100006: C3D:Male_CLAV
-    100008: C3D:Male_LANK
-    100010: C3D:Male_LBHD
-    100012: C3D:Male_LBWT
-    100014: C3D:Male_LELB
-    100016: C3D:Male_LFHD
-    100018: C3D:Male_LFIN
-    100020: C3D:Male_LFRM
-    100022: C3D:Male_LFWT
-    100024: C3D:Male_LHEE
-    100026: C3D:Male_LKNE
-    100028: C3D:Male_LMT5
-    100030: C3D:Male_LSHN
-    100032: C3D:Male_LSHO
-    100034: C3D:Male_LTHI
-    100036: C3D:Male_LTOE
-    100038: C3D:Male_LUPA
-    100040: C3D:Male_LWRA
-    100042: C3D:Male_LWRB
-    100044: C3D:Male_RANK
-    100046: C3D:Male_RBAC
-    100048: C3D:Male_RBHD
-    100050: C3D:Male_RBWT
-    100052: C3D:Male_RELB
-    100054: C3D:Male_RFHD
-    100056: C3D:Male_RFIN
-    100058: C3D:Male_RFRM
-    100060: C3D:Male_RFWT
-    100062: C3D:Male_RHEE
-    100064: C3D:Male_RKNE
-    100066: C3D:Male_RMT5
-    100068: C3D:Male_RSHN
-    100070: C3D:Male_RSHO
-    100072: C3D:Male_RTHI
-    100074: C3D:Male_RTOE
-    100076: C3D:Male_RUPA
-    100078: C3D:Male_RWRA
-    100080: C3D:Male_RWRB
-    100082: C3D:Male_STRN
-    100084: C3D:Male_T10
-    100086: C3D:optical
-    100088: Neo_Head
-    100090: Neo_Hips
-    100092: Neo_LeftArm
-    100094: Neo_LeftFoot
-    100096: Neo_LeftForeArm
-    100098: Neo_LeftHand
-    100100: Neo_LeftLeg
-    100102: Neo_LeftShoulder
-    100104: Neo_LeftToeBase
-    100106: Neo_LeftUpLeg
-    100108: Neo_Neck
-    100110: Neo_Reference
-    100112: Neo_RightArm
-    100114: Neo_RightFoot
-    100116: Neo_RightForeArm
-    100118: Neo_RightHand
-    100120: Neo_RightLeg
-    100122: Neo_RightShoulder
-    100124: Neo_RightToeBase
-    100126: Neo_RightUpLeg
-    100128: Neo_Spine
-    100130: Neo_Spine1
-    100132: Neo_Spine2
-    100134: RigidBody
-    100136: RigidBody 1
-    100138: RigidBody 10
-    100140: RigidBody 2
-    100142: RigidBody 3
-    100144: RigidBody 4
-    100146: RigidBody 5
-    100148: RigidBody 6
-    100150: RigidBody 7
-    100152: RigidBody 8
-    100154: RigidBody 9
-    100156: Character_Ctrl:ChestEndEffector
-    100158: Character_Ctrl:ChestOriginEffector
-    100160: Character_Ctrl:Head
-    100162: Character_Ctrl:HeadEffector
-    100164: Character_Ctrl:Hips
-    100166: Character_Ctrl:HipsEffector
-    100168: Character_Ctrl:LeftAnkleEffector
-    100170: Character_Ctrl:LeftArm
-    100172: Character_Ctrl:LeftElbowEffector
-    100174: Character_Ctrl:LeftFoot
-    100176: Character_Ctrl:LeftFootEffector
-    100178: Character_Ctrl:LeftForeArm
-    100180: Character_Ctrl:LeftHand
-    100182: Character_Ctrl:LeftHipEffector
-    100184: Character_Ctrl:LeftKneeEffector
-    100186: Character_Ctrl:LeftLeg
-    100188: Character_Ctrl:LeftShoulder
-    100190: Character_Ctrl:LeftShoulderEffector
-    100192: Character_Ctrl:LeftToeBase
-    100194: Character_Ctrl:LeftUpLeg
-    100196: Character_Ctrl:LeftWristEffector
-    100198: Character_Ctrl:Neck
-    100200: Character_Ctrl:Reference
-    100202: Character_Ctrl:RightAnkleEffector
-    100204: Character_Ctrl:RightArm
-    100206: Character_Ctrl:RightElbowEffector
-    100208: Character_Ctrl:RightFoot
-    100210: Character_Ctrl:RightFootEffector
-    100212: Character_Ctrl:RightForeArm
-    100214: Character_Ctrl:RightHand
-    100216: Character_Ctrl:RightHipEffector
-    100218: Character_Ctrl:RightKneeEffector
-    100220: Character_Ctrl:RightLeg
-    100222: Character_Ctrl:RightShoulder
-    100224: Character_Ctrl:RightShoulderEffector
-    100226: Character_Ctrl:RightToeBase
-    100228: Character_Ctrl:RightUpLeg
-    100230: Character_Ctrl:RightWristEffector
-    100232: Character_Ctrl:Spine
-    100234: Character_Ctrl:Spine1
-    100236: Character_Ctrl:Spine2
+    100004: Character_Ctrl:ChestEndEffector
+    100006: Character_Ctrl:ChestOriginEffector
+    100008: Character_Ctrl:Head
+    100010: Character_Ctrl:HeadEffector
+    100012: Character_Ctrl:Hips
+    100014: Character_Ctrl:HipsEffector
+    100016: Character_Ctrl:LeftAnkleEffector
+    100018: Character_Ctrl:LeftArm
+    100020: Character_Ctrl:LeftElbowEffector
+    100022: Character_Ctrl:LeftFoot
+    100024: Character_Ctrl:LeftFootEffector
+    100026: Character_Ctrl:LeftForeArm
+    100028: Character_Ctrl:LeftHand
+    100030: Character_Ctrl:LeftHipEffector
+    100032: Character_Ctrl:LeftKneeEffector
+    100034: Character_Ctrl:LeftLeg
+    100036: Character_Ctrl:LeftShoulder
+    100038: Character_Ctrl:LeftShoulderEffector
+    100040: Character_Ctrl:LeftToeBase
+    100042: Character_Ctrl:LeftUpLeg
+    100044: Character_Ctrl:LeftWristEffector
+    100046: Character_Ctrl:Neck
+    100048: Character_Ctrl:Reference
+    100050: Character_Ctrl:RightAnkleEffector
+    100052: Character_Ctrl:RightArm
+    100054: Character_Ctrl:RightElbowEffector
+    100056: Character_Ctrl:RightFoot
+    100058: Character_Ctrl:RightFootEffector
+    100060: Character_Ctrl:RightForeArm
+    100062: Character_Ctrl:RightHand
+    100064: Character_Ctrl:RightHipEffector
+    100066: Character_Ctrl:RightKneeEffector
+    100068: Character_Ctrl:RightLeg
+    100070: Character_Ctrl:RightShoulder
+    100072: Character_Ctrl:RightShoulderEffector
+    100074: Character_Ctrl:RightToeBase
+    100076: Character_Ctrl:RightUpLeg
+    100078: Character_Ctrl:RightWristEffector
+    100080: Character_Ctrl:Spine
+    100082: Character_Ctrl:Spine1
+    100084: Character_Ctrl:Spine2
+    100086: Neo_Head
+    100088: Neo_Hips
+    100090: Neo_LeftArm
+    100092: Neo_LeftFoot
+    100094: Neo_LeftForeArm
+    100096: Neo_LeftHand
+    100098: Neo_LeftLeg
+    100100: Neo_LeftShoulder
+    100102: Neo_LeftToeBase
+    100104: Neo_LeftUpLeg
+    100106: Neo_Neck
+    100108: Neo_Reference
+    100110: Neo_RightArm
+    100112: Neo_RightFoot
+    100114: Neo_RightForeArm
+    100116: Neo_RightHand
+    100118: Neo_RightLeg
+    100120: Neo_RightShoulder
+    100122: Neo_RightToeBase
+    100124: Neo_RightUpLeg
+    100126: Neo_Spine
+    100128: Neo_Spine1
+    100130: Neo_Spine2
     400000: //RootNode
     400002: Body
-    400004: C3D:Male_C7
-    400006: C3D:Male_CLAV
-    400008: C3D:Male_LANK
-    400010: C3D:Male_LBHD
-    400012: C3D:Male_LBWT
-    400014: C3D:Male_LELB
-    400016: C3D:Male_LFHD
-    400018: C3D:Male_LFIN
-    400020: C3D:Male_LFRM
-    400022: C3D:Male_LFWT
-    400024: C3D:Male_LHEE
-    400026: C3D:Male_LKNE
-    400028: C3D:Male_LMT5
-    400030: C3D:Male_LSHN
-    400032: C3D:Male_LSHO
-    400034: C3D:Male_LTHI
-    400036: C3D:Male_LTOE
-    400038: C3D:Male_LUPA
-    400040: C3D:Male_LWRA
-    400042: C3D:Male_LWRB
-    400044: C3D:Male_RANK
-    400046: C3D:Male_RBAC
-    400048: C3D:Male_RBHD
-    400050: C3D:Male_RBWT
-    400052: C3D:Male_RELB
-    400054: C3D:Male_RFHD
-    400056: C3D:Male_RFIN
-    400058: C3D:Male_RFRM
-    400060: C3D:Male_RFWT
-    400062: C3D:Male_RHEE
-    400064: C3D:Male_RKNE
-    400066: C3D:Male_RMT5
-    400068: C3D:Male_RSHN
-    400070: C3D:Male_RSHO
-    400072: C3D:Male_RTHI
-    400074: C3D:Male_RTOE
-    400076: C3D:Male_RUPA
-    400078: C3D:Male_RWRA
-    400080: C3D:Male_RWRB
-    400082: C3D:Male_STRN
-    400084: C3D:Male_T10
-    400086: C3D:optical
-    400088: Neo_Head
-    400090: Neo_Hips
-    400092: Neo_LeftArm
-    400094: Neo_LeftFoot
-    400096: Neo_LeftForeArm
-    400098: Neo_LeftHand
-    400100: Neo_LeftLeg
-    400102: Neo_LeftShoulder
-    400104: Neo_LeftToeBase
-    400106: Neo_LeftUpLeg
-    400108: Neo_Neck
-    400110: Neo_Reference
-    400112: Neo_RightArm
-    400114: Neo_RightFoot
-    400116: Neo_RightForeArm
-    400118: Neo_RightHand
-    400120: Neo_RightLeg
-    400122: Neo_RightShoulder
-    400124: Neo_RightToeBase
-    400126: Neo_RightUpLeg
-    400128: Neo_Spine
-    400130: Neo_Spine1
-    400132: Neo_Spine2
-    400134: RigidBody
-    400136: RigidBody 1
-    400138: RigidBody 10
-    400140: RigidBody 2
-    400142: RigidBody 3
-    400144: RigidBody 4
-    400146: RigidBody 5
-    400148: RigidBody 6
-    400150: RigidBody 7
-    400152: RigidBody 8
-    400154: RigidBody 9
-    400156: Character_Ctrl:ChestEndEffector
-    400158: Character_Ctrl:ChestOriginEffector
-    400160: Character_Ctrl:Head
-    400162: Character_Ctrl:HeadEffector
-    400164: Character_Ctrl:Hips
-    400166: Character_Ctrl:HipsEffector
-    400168: Character_Ctrl:LeftAnkleEffector
-    400170: Character_Ctrl:LeftArm
-    400172: Character_Ctrl:LeftElbowEffector
-    400174: Character_Ctrl:LeftFoot
-    400176: Character_Ctrl:LeftFootEffector
-    400178: Character_Ctrl:LeftForeArm
-    400180: Character_Ctrl:LeftHand
-    400182: Character_Ctrl:LeftHipEffector
-    400184: Character_Ctrl:LeftKneeEffector
-    400186: Character_Ctrl:LeftLeg
-    400188: Character_Ctrl:LeftShoulder
-    400190: Character_Ctrl:LeftShoulderEffector
-    400192: Character_Ctrl:LeftToeBase
-    400194: Character_Ctrl:LeftUpLeg
-    400196: Character_Ctrl:LeftWristEffector
-    400198: Character_Ctrl:Neck
-    400200: Character_Ctrl:Reference
-    400202: Character_Ctrl:RightAnkleEffector
-    400204: Character_Ctrl:RightArm
-    400206: Character_Ctrl:RightElbowEffector
-    400208: Character_Ctrl:RightFoot
-    400210: Character_Ctrl:RightFootEffector
-    400212: Character_Ctrl:RightForeArm
-    400214: Character_Ctrl:RightHand
-    400216: Character_Ctrl:RightHipEffector
-    400218: Character_Ctrl:RightKneeEffector
-    400220: Character_Ctrl:RightLeg
-    400222: Character_Ctrl:RightShoulder
-    400224: Character_Ctrl:RightShoulderEffector
-    400226: Character_Ctrl:RightToeBase
-    400228: Character_Ctrl:RightUpLeg
-    400230: Character_Ctrl:RightWristEffector
-    400232: Character_Ctrl:Spine
-    400234: Character_Ctrl:Spine1
-    400236: Character_Ctrl:Spine2
+    400004: Character_Ctrl:ChestEndEffector
+    400006: Character_Ctrl:ChestOriginEffector
+    400008: Character_Ctrl:Head
+    400010: Character_Ctrl:HeadEffector
+    400012: Character_Ctrl:Hips
+    400014: Character_Ctrl:HipsEffector
+    400016: Character_Ctrl:LeftAnkleEffector
+    400018: Character_Ctrl:LeftArm
+    400020: Character_Ctrl:LeftElbowEffector
+    400022: Character_Ctrl:LeftFoot
+    400024: Character_Ctrl:LeftFootEffector
+    400026: Character_Ctrl:LeftForeArm
+    400028: Character_Ctrl:LeftHand
+    400030: Character_Ctrl:LeftHipEffector
+    400032: Character_Ctrl:LeftKneeEffector
+    400034: Character_Ctrl:LeftLeg
+    400036: Character_Ctrl:LeftShoulder
+    400038: Character_Ctrl:LeftShoulderEffector
+    400040: Character_Ctrl:LeftToeBase
+    400042: Character_Ctrl:LeftUpLeg
+    400044: Character_Ctrl:LeftWristEffector
+    400046: Character_Ctrl:Neck
+    400048: Character_Ctrl:Reference
+    400050: Character_Ctrl:RightAnkleEffector
+    400052: Character_Ctrl:RightArm
+    400054: Character_Ctrl:RightElbowEffector
+    400056: Character_Ctrl:RightFoot
+    400058: Character_Ctrl:RightFootEffector
+    400060: Character_Ctrl:RightForeArm
+    400062: Character_Ctrl:RightHand
+    400064: Character_Ctrl:RightHipEffector
+    400066: Character_Ctrl:RightKneeEffector
+    400068: Character_Ctrl:RightLeg
+    400070: Character_Ctrl:RightShoulder
+    400072: Character_Ctrl:RightShoulderEffector
+    400074: Character_Ctrl:RightToeBase
+    400076: Character_Ctrl:RightUpLeg
+    400078: Character_Ctrl:RightWristEffector
+    400080: Character_Ctrl:Spine
+    400082: Character_Ctrl:Spine1
+    400084: Character_Ctrl:Spine2
+    400086: Neo_Head
+    400088: Neo_Hips
+    400090: Neo_LeftArm
+    400092: Neo_LeftFoot
+    400094: Neo_LeftForeArm
+    400096: Neo_LeftHand
+    400098: Neo_LeftLeg
+    400100: Neo_LeftShoulder
+    400102: Neo_LeftToeBase
+    400104: Neo_LeftUpLeg
+    400106: Neo_Neck
+    400108: Neo_Reference
+    400110: Neo_RightArm
+    400112: Neo_RightFoot
+    400114: Neo_RightForeArm
+    400116: Neo_RightHand
+    400118: Neo_RightLeg
+    400120: Neo_RightShoulder
+    400122: Neo_RightToeBase
+    400124: Neo_RightUpLeg
+    400126: Neo_Spine
+    400128: Neo_Spine1
+    400130: Neo_Spine2
     7400000: 85_12
     9500000: //RootNode
   materials:
@@ -257,10 +151,10 @@ ModelImporter:
     motionNodeName: 
     animationImportErrors: 
     animationImportWarnings: "\nInbetween bone default rotation found in this file
-      is different from the one found in the source avatar:\n\t'Neo_Spine1' : rotation
-      error = 1.262601 deg\n\nClip '85_12' has import animation warnings that might
+      is different from the one found in the source avatar:\n\t'Neo_Spine2' : rotation
+      error = 1.251687 deg\n\nClip '85_12' has import animation warnings that might
       lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
-      retargeting quality.\n\t'Neo_Spine1' is inbetween humanoid transforms and has
+      retargeting quality.\n\t'Neo_Spine2' is inbetween humanoid transforms and has
       rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
@@ -274,8 +168,8 @@ ModelImporter:
     - serializedVersion: 16
       name: 85_12
       takeName: 85_12
-      firstFrame: 66
-      lastFrame: 1125
+      firstFrame: 76
+      lastFrame: 1095
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -283,9 +177,9 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 1
+      loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
@@ -300,111 +194,87 @@ ModelImporter:
         weight: 1
       - path: Body
         weight: 0
-      - path: C3D:optical
+      - path: Character_Ctrl:Reference
         weight: 0
-      - path: C3D:optical/C3D:Male_C7
+      - path: Character_Ctrl:Reference/Character_Ctrl:ChestEndEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_CLAV
+      - path: Character_Ctrl:Reference/Character_Ctrl:ChestOriginEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_LANK
+      - path: Character_Ctrl:Reference/Character_Ctrl:HeadEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_LBHD
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips
         weight: 0
-      - path: C3D:optical/C3D:Male_LBWT
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg
         weight: 0
-      - path: C3D:optical/C3D:Male_LELB
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg
         weight: 0
-      - path: C3D:optical/C3D:Male_LFHD
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot
         weight: 0
-      - path: C3D:optical/C3D:Male_LFIN
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot/Character_Ctrl:LeftToeBase
         weight: 0
-      - path: C3D:optical/C3D:Male_LFRM
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg
         weight: 0
-      - path: C3D:optical/C3D:Male_LFWT
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg
         weight: 0
-      - path: C3D:optical/C3D:Male_LHEE
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot
         weight: 0
-      - path: C3D:optical/C3D:Male_LKNE
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot/Character_Ctrl:RightToeBase
         weight: 0
-      - path: C3D:optical/C3D:Male_LMT5
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine
         weight: 0
-      - path: C3D:optical/C3D:Male_LSHN
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1
         weight: 0
-      - path: C3D:optical/C3D:Male_LSHO
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2
         weight: 0
-      - path: C3D:optical/C3D:Male_LTHI
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder
         weight: 0
-      - path: C3D:optical/C3D:Male_LTOE
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm
         weight: 0
-      - path: C3D:optical/C3D:Male_LUPA
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm
         weight: 0
-      - path: C3D:optical/C3D:Male_LWRA
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand
         weight: 0
-      - path: C3D:optical/C3D:Male_LWRB
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck
         weight: 0
-      - path: C3D:optical/C3D:Male_RANK
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck/Character_Ctrl:Head
         weight: 0
-      - path: C3D:optical/C3D:Male_RBAC
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder
         weight: 0
-      - path: C3D:optical/C3D:Male_RBHD
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm
         weight: 0
-      - path: C3D:optical/C3D:Male_RBWT
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm
         weight: 0
-      - path: C3D:optical/C3D:Male_RELB
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand
         weight: 0
-      - path: C3D:optical/C3D:Male_RFHD
+      - path: Character_Ctrl:Reference/Character_Ctrl:HipsEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RFIN
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftAnkleEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RFRM
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftElbowEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RFWT
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftFootEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RHEE
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHipEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RKNE
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftKneeEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RMT5
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftShoulderEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RSHN
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftWristEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RSHO
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightAnkleEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RTHI
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightElbowEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RTOE
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightFootEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RUPA
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHipEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RWRA
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightKneeEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_RWRB
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightShoulderEffector
         weight: 0
-      - path: C3D:optical/C3D:Male_STRN
-        weight: 0
-      - path: C3D:optical/C3D:Male_T10
-        weight: 0
-      - path: C3D:optical/RigidBody
-        weight: 0
-      - path: C3D:optical/RigidBody 1
-        weight: 0
-      - path: C3D:optical/RigidBody 2
-        weight: 0
-      - path: C3D:optical/RigidBody 3
-        weight: 0
-      - path: C3D:optical/RigidBody 4
-        weight: 0
-      - path: C3D:optical/RigidBody 5
-        weight: 0
-      - path: C3D:optical/RigidBody 6
-        weight: 0
-      - path: C3D:optical/RigidBody 7
-        weight: 0
-      - path: C3D:optical/RigidBody 8
-        weight: 0
-      - path: C3D:optical/RigidBody 9
-        weight: 0
-      - path: C3D:optical/RigidBody 10
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightWristEffector
         weight: 0
       - path: Neo_Reference
         weight: 1
@@ -545,7 +415,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: Neo_Spine2
+    - boneName: Neo_Spine1
       humanName: Chest
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -656,114 +526,113 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Hips
-      position: {x: -0, y: 0.87266076, z: -0.029343957}
-      rotation: {x: 0.50902355, y: -0.4908106, z: -0.50902355, w: 0.4908106}
+      position: {x: 0.000000023841856, y: 0.9469229, z: -0.09803119}
+      rotation: {x: 0.514734, y: -0.4848184, z: -0.514734, w: 0.4848184}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftUpLeg
-      position: {x: 0.050278265, y: 0.0023879402, z: 0.0793732}
-      rotation: {x: -6.233741e-17, y: -1.1152212e-18, z: 0.9998342, w: -0.018212946}
+      position: {x: 0.040893186, y: 0.004726813, z: 0.09148609}
+      rotation: {x: -0, y: 0, z: 0.9995527, w: -0.029907286}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftLeg
-      position: {x: -0.36066905, y: -0.0000003480911, z: -0.0000003147125}
-      rotation: {x: -1.7477998e-33, y: 3.1022722e-23, z: 0.0000005066395, w: 1}
-      scale: {x: 1, y: 1, z: 1}
+      position: {x: -0.4066052, y: -0.00000010288717, z: 0.000000085830685}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
       transformModified: 1
     - name: Neo_LeftFoot
-      position: {x: -0.39142752, y: 0.00000001992393, z: -0.000000333786}
-      rotation: {x: -0.00000016391265, y: 0.00000025331983, z: 0.5606547, w: 0.8280497}
+      position: {x: -0.44307178, y: -0.00000011197301, z: 0.00000008583067}
+      rotation: {x: -0.00000018290748, y: 0.00000025019085, z: 0.59018934, w: 0.8072649}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftToeBase
-      position: {x: -0.101196565, y: -0.0000000011633721, z: -0.0000000038334136}
-      rotation: {x: 1.9852335e-22, y: 5.51013e-39, z: 2.7755576e-17, w: 1}
+      position: {x: -0.12445047, y: -9.436656e-10, z: 0.000000008691233}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_RightUpLeg
-      position: {x: 0.050278265, y: 0.0023879402, z: -0.0793732}
-      rotation: {x: 0.000000014627296, y: 0.000000015170084, z: 0.018217845, w: 0.99983406}
+      position: {x: 0.040893186, y: 0.004726813, z: -0.09148608}
+      rotation: {x: -9.0349744e-10, y: 0.000000030245893, z: 0.029982578, w: 0.99955046}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_RightLeg
-      position: {x: 0.36066905, y: -0.0000003057755, z: -0.0000002515117}
-      rotation: {x: -0.000000014901161, y: -0.000000014901161, z: -0.000004902482,
-        w: 1}
-      scale: {x: 1, y: 1, z: 1}
+      position: {x: 0.4066052, y: -0.00000001004606, z: -0.000000042149956}
+      rotation: {x: -2.0322612e-13, y: -0.00000004154904, z: -0.000004891235, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
       transformModified: 1
     - name: Neo_RightFoot
-      position: {x: 0.39142752, y: -0.0000003695488, z: -0.00000027179718}
-      rotation: {x: -0.000021807851, y: 0.000032193962, z: 0.56065524, w: 0.8280494}
+      position: {x: 0.44307184, y: -0.000000020713253, z: -0.000000048151225}
+      rotation: {x: -0.000023553679, y: 0.000032231466, z: 0.5901324, w: 0.80730647}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_RightToeBase
-      position: {x: 0.101196565, y: -0.000000015347322, z: -0.000000002550549}
-      rotation: {x: -1.0163333e-20, y: 0.000000012760811, z: -2.7755576e-17, w: 1}
+      position: {x: 0.12445047, y: 0.0000000014492009, z: 0.000000007638004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Spine
-      position: {x: -0.091741696, y: -0.00000000613221, z: -4.9960034e-18}
-      rotation: {x: 6.654312e-33, y: -2.0785692e-18, z: 0.033945613, w: 0.9994237}
-      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      position: {x: -0.0975585, y: 8.049232e-11, z: -2.1661274e-17}
+      rotation: {x: 0, y: 0, z: 0.036113307, w: 0.99934775}
+      scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Spine1
-      position: {x: -0.09147918, y: 5.473092e-11, z: -6.1062266e-18}
-      rotation: {x: 0, y: -9.62965e-34, z: -0, w: 1}
-      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      position: {x: -0.17136289, y: 0.000000011315119, z: 0.000000005106558}
+      rotation: {x: 0, y: 0, z: 0.0014559262, w: 0.9999989}
+      scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_Spine2
-      position: {x: -0.09147911, y: -0.000000002346329, z: -4.9960034e-18}
-      rotation: {x: 6.015525e-33, y: -6.176886e-20, z: 0.0010087619, w: 0.9999995}
+      position: {x: -0.13878137, y: 0.000000017048766, z: -3.4197903e-17}
+      rotation: {x: 0, y: 0, z: 0.0026228526, w: 0.9999966}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_LeftShoulder
-      position: {x: -0.17934304, y: -0.014735356, z: 0.08270951}
-      rotation: {x: -0.56832355, y: 0.42072356, z: 0.40145576, w: 0.58209395}
-      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
-      transformModified: 1
-    - name: Neo_LeftArm
-      position: {x: -0.112393565, y: -0.00000004690923, z: 0}
-      rotation: {x: 0.69368565, y: 0.13711396, z: 0.13711396, w: 0.69368565}
-      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
-      transformModified: 1
-    - name: Neo_LeftForeArm
-      position: {x: -0.26339167, y: -8.881784e-18, z: -2.842171e-16}
-      rotation: {x: -0, y: 1.1387668e-33, z: 3.081488e-33, w: 1}
-      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
-      transformModified: 1
-    - name: Neo_LeftHand
-      position: {x: -0.25212294, y: -8.881784e-18, z: -2.842171e-16}
-      rotation: {x: -0, y: 1.1387668e-33, z: 3.081488e-33, w: 1}
-      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
-      transformModified: 1
-    - name: Neo_Neck
-      position: {x: -0.24379267, y: 0.000000009190097, z: -1.498801e-17}
-      rotation: {x: -3.0442499e-33, y: 5.17941e-18, z: -0.08458619, w: 0.9964162}
+      position: {x: -0.13279176, y: -0.01978109, z: 0.0889847}
+      rotation: {x: -0.4060247, y: 0.5789162, z: 0.5704466, w: 0.4178404}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
+    - name: Neo_LeftArm
+      position: {x: -0.11870083, y: -0.00000010170189, z: 0.00000000834465}
+      rotation: {x: 0.69243336, y: -0.1433041, z: -0.1433041, w: 0.6924334}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Neo_LeftForeArm
+      position: {x: -0.24097936, y: 0.000000020265581, z: 8.5265126e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Neo_LeftHand
+      position: {x: -0.2732065, y: 0.000000022649767, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Neo_Neck
+      position: {x: -0.18629074, y: 0.0000000054149853, z: 5.820304e-13}
+      rotation: {x: 0, y: 0, z: -0.1815168, w: 0.9833879}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
     - name: Neo_Head
-      position: {x: -0.09260269, y: -0.0000000040829398, z: -0.000000002682209}
-      rotation: {x: -0, y: 2.311116e-33, z: 1.3877788e-17, w: 1}
-      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      position: {x: -0.13223423, y: -0.000000013813483, z: -0.000000013861569}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
       transformModified: 1
     - name: Neo_RightShoulder
-      position: {x: -0.17934304, y: -0.014735356, z: -0.0827095}
-      rotation: {x: -0.42072347, y: -0.56832355, z: 0.58209395, w: -0.4014557}
-      scale: {x: 0.99999994, y: 1, z: 1}
+      position: {x: -0.13279176, y: -0.019781096, z: -0.0889847}
+      rotation: {x: 0.5789163, y: 0.4060247, z: -0.41784036, w: 0.57044655}
+      scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neo_RightArm
-      position: {x: 0.112393625, y: 0.000000050537555, z: -1.7763568e-17}
-      rotation: {x: 0.69368565, y: 0.13711396, z: 0.13711396, w: 0.69368565}
+      position: {x: 0.11870083, y: 0.00000010170189, z: 0.0000000023841857}
+      rotation: {x: 0.69243324, y: -0.14330453, z: -0.14330444, w: 0.69243336}
       scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
       transformModified: 1
     - name: Neo_RightForeArm
-      position: {x: 0.26339167, y: -8.8817837e-17, z: 5.684342e-16}
-      rotation: {x: -1.11022296e-16, y: 4.3725972e-16, z: -1.6923824e-16, w: 1}
-      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      position: {x: 0.24097924, y: -0.000000003576278, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
       transformModified: 1
     - name: Neo_RightHand
-      position: {x: 0.252123, y: 0, z: 0.000000012277037}
-      rotation: {x: 1.2325952e-32, y: 0, z: 7.34684e-40, w: 1}
+      position: {x: 0.2732064, y: -0.000000003576278, z: 0.000000013303687}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
       transformModified: 1
     armTwist: 0.5
@@ -775,7 +644,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: de9463809acf48e4bbefb5a06a37ca65,
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 06e286c09d18d0649b1bd0d731f9903f,
     type: 3}
   animationType: 3
   humanoidOversampling: 1
