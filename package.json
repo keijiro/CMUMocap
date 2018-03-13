@@ -1,0 +1,8 @@
+{
+    "name": "jp.keijiro.cmu-mocap",
+    "displayName": "CMU Mocap",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Converted animations from the Carnegie Mellon University Motion Capture Database.",
+    "dependencies": { }
+}
