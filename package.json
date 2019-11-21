@@ -1,8 +1,13 @@
 {
-    "name": "jp.keijiro.cmu-mocap",
-    "displayName": "CMU Mocap",
-    "version": "0.0.1",
-    "unity": "2018.1",
-    "description": "Converted animations from the Carnegie Mellon University Motion Capture Database.",
-    "dependencies": { }
+  "author": "Keijiro Takahashi",
+  "dependencies": { },
+  "description": "Humanoid animations from the Carnegie Mellon University Motion Capture Database.",
+  "displayName": "CMU Mocap",
+  "keywords": [ "unity" ],
+  "license": "SEE LICENSE IN LICENSE",
+  "name": "jp.keijiro.cmu-mocap",
+  "repository": "github:keijiro/CMUMocap",
+  "unity": "2018.1",
+  "unityRelease": "0f1",
+  "version": "1.0.0"
 }
