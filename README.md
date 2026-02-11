@@ -1,46 +1,13 @@
-CMUMocap
-========
+# CMUMocap
 
-**CMUMocap** is a Unity package that contains humanoid animations from the
+**CMUMocap** is a Unity package containing humanoid animations from the
 Carnegie Mellon University Motion Capture Database.
 
-How To Install
---------------
+# How to install
 
-This package uses the [scoped registry] feature to resolve package
-dependencies. Please add the following sections to the manifest file
-(Packages/manifest.json).
+Install the CMUMocap package (`jp.keijiro.cmu-mocap`) from the "Keijiro" scoped
+registry in Package Manager. Follow [these instructions] to add the registry to
+your project.
 
-[scoped registry]: https://docs.unity3d.com/Manual/upm-scoped.html
-
-To the `scopedRegistries` section:
-
-```
-{
-  "name": "Keijiro",
-  "url": "https://registry.npmjs.com",
-  "scopes": [ "jp.keijiro" ]
-}
-```
-
-To the `dependencies` section:
-
-```
-"jp.keijiro.cmu-mocap": "1.0.0"
-```
-
-After changes, the manifest file should look like below:
-
-```
-{
-  "scopedRegistries": [
-    {
-      "name": "Keijiro",
-      "url": "https://registry.npmjs.com",
-      "scopes": [ "jp.keijiro" ]
-    }
-  ],
-  "dependencies": {
-    "jp.keijiro.cmu-mocap": "1.0.0",
-    ...
-```
+[these instructions]:
+  https://gist.github.com/keijiro/f8c7e8ff29bfe63d86b888901b82644c
